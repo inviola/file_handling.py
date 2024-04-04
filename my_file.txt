@@ -1,0 +1,6 @@
+Line 1: My name is Violeth a PLP student.
+Line 2: 2024
+Line 3: I am in a Project Management Department: 3.14, 42
+Line 4: Appended line 1.
+Line 5: Appended line 2.
+Line 6: Appended line 3.
